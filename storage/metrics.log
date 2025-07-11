@@ -1,0 +1,298 @@
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-15 19:10:37"}
+{"level":"info","message":"Envoi de l'image à l'API OpenAI pour identification","service":"ai-service","timestamp":"2025-05-15 19:11:21"}
+{"level":"info","message":"Réponse reçue de l'API OpenAI","service":"ai-service","timestamp":"2025-05-15 19:11:28"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.identifyCar (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:49:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-15 19:11:28"}
+{"level":"info","message":"Fichier temporaire supprimé:","service":"ai-service","timestamp":"2025-05-15 19:11:28"}
+{"level":"info","message":"Envoi de l'image à l'API OpenAI pour identification","service":"ai-service","timestamp":"2025-05-15 19:17:11"}
+{"level":"info","message":"Réponse reçue de l'API OpenAI","service":"ai-service","timestamp":"2025-05-15 19:17:12"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{ \"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{ \"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.identifyCar (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:49:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-15 19:17:12"}
+{"level":"info","message":"Fichier temporaire supprimé:","service":"ai-service","timestamp":"2025-05-15 19:17:12"}
+{"level":"info","message":"Envoi de l'image à l'API OpenAI pour identification","service":"ai-service","timestamp":"2025-05-15 19:17:33"}
+{"level":"info","message":"Réponse reçue de l'API OpenAI","service":"ai-service","timestamp":"2025-05-15 19:17:35"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token 'J', \"Je ne peux\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token 'J', \"Je ne peux\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.identifyCar (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:49:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-15 19:17:35"}
+{"level":"info","message":"Fichier temporaire supprimé:","service":"ai-service","timestamp":"2025-05-15 19:17:35"}
+{"level":"info","message":"Envoi de l'image à l'API OpenAI pour identification","service":"ai-service","timestamp":"2025-05-15 19:17:51"}
+{"level":"info","message":"Réponse reçue de l'API OpenAI","service":"ai-service","timestamp":"2025-05-15 19:17:57"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.identifyCar (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:49:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-15 19:17:57"}
+{"level":"info","message":"Fichier temporaire supprimé:","service":"ai-service","timestamp":"2025-05-15 19:17:57"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-15 19:29:32"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-18 13:24:31"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-18 14:48:26"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-18 15:46:08"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-18 15:49:43"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-18 15:50:15"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-18 18:50:29"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-18 23:58:09"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-19 16:34:05"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-19 16:34:12"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-19 16:42:41"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-19 22:02:21"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-19 23:41:24"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-20 18:46:36"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-20 21:25:12"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-21 19:38:15"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-21 20:31:21"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-22 18:42:43"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 14:04:40"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 15:28:24"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 15:28:28"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:33:32"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:33:36"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:33:36"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:33:36"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:33:36"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:33:55"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:33:58"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:33:58"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:33:58"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:33:58"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:34:11"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:34:16"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:34:16"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:34:16"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:34:16"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:34:41"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:34:46"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:34:46"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:34:46"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:34:46"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:34:59"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:35:03"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:35:03"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:35:03"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:35:28"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:35:31"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:35:31"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:35:31"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:35:34"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:35:36"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:35:36"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:35:36"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:35:46"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:35:50"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:35:50"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:35:50"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:36:07"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:36:10"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:36:10"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:36:10"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:36:19"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:36:21"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:36:21"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:36:21"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 15:36:37"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 15:36:42"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 15:36:42"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 15:36:42"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 15:38:45"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 15:38:46"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 15:57:55"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 15:59:52"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 16:02:05"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 16:02:08"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 16:02:08"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:02:08"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:02:08"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:03:21"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 16:03:23"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 16:03:25"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:182:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 16:03:25"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:03:25"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:03:25"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:03:35"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:03:58"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 16:04:00"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 16:04:02"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:184:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 16:04:02"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:04:02"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:04:02"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:05:56"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 16:05:58"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 16:06:01"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:184:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 16:06:01"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:06:01"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:06:01"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:06:18"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 16:06:21"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 16:06:23"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:184:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 16:06:23"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:06:23"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:06:23"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:06:34"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 16:06:37"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 16:06:39"}
+{"level":"error","message":"Erreur de parsing JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:184:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 16:06:39"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:06:39"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:06:39"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:06:57"}
+{"level":"info","message":"Envoi des données à l'API OpenAI pour validation complète","service":"ai-service","timestamp":"2025-05-23 16:07:00"}
+{"level":"info","message":"Réponse reçue de l'API","service":"ai-service","timestamp":"2025-05-23 16:07:02"}
+{"level":"error","message":"Erreur dans validatePost: SON is not defined","service":"ai-service","stack":"ReferenceError: SON is not defined\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:181:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-05-23 16:07:02"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:09:12"}
+{"level":"info","message":"Envoi à OpenAI pour validation...","service":"ai-service","timestamp":"2025-05-23 16:09:16"}
+{"level":"info","message":"Validation réussie. Envoi au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:09:18"}
+{"level":"error","message":"Erreur dans validatePost: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON","service":"ai-service","stack":"SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parseJSONFromBytes (node:internal/deps/undici/undici:5731:19)\n    at successSteps (node:internal/deps/undici/undici:5712:27)\n    at fullyReadBody (node:internal/deps/undici/undici:4609:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async consumeBody (node:internal/deps/undici/undici:5721:7)\n    at async exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:208:23)","timestamp":"2025-05-23 16:09:18"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:09:18"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:09:18"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:09:45"}
+{"level":"info","message":"Envoi à OpenAI pour validation...","service":"ai-service","timestamp":"2025-05-23 16:09:48"}
+{"level":"info","message":"Validation réussie. Envoi au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:09:52"}
+{"error":"Post validation failed: user: Path `user` is required.","level":"error","message":"Erreur lors de la création du post en BDD","service":"ai-service","timestamp":"2025-05-23 16:09:52"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:09:52"}
+{"level":"info","message":"Fichier supprimé:","service":"ai-service","timestamp":"2025-05-23 16:09:52"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:10:17"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:11:53"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:12:04"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:12:10"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:13:09"}
+{"level":"error","message":"Erreur dans validatePost: cloudinary is not defined","service":"ai-service","stack":"ReferenceError: cloudinary is not defined\n    at C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:113:22\n    at Array.map (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:112:53)\n    at Layer.handle [as handle_request] (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at done (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\multer\\lib\\make-middleware.js:47:7)\n    at indicateDone (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\multer\\lib\\make-middleware.js:51:68)\n    at C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\multer\\lib\\make-middleware.js:157:11\n    at WriteStream.<anonymous> (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\multer\\storage\\disk.js:43:9)\n    at WriteStream.emit (node:events:536:35)","timestamp":"2025-05-23 16:13:20"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:13:38"}
+{"level":"error","message":"Erreur dans validatePost: Must supply api_key","service":"ai-service","stack":"Error: Must supply api_key\n    at ensureOption (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\ensureOption.js:19:13)\n    at Object.sign_request (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\index.js:1164:16)\n    at Object.process_request_params (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\index.js:1214:22)\n    at call_api (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\uploader.js:474:18)\n    at Object.upload (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\uploader.js:53:10)\n    at Object.upload (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\index.js:1411:21)\n    at C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:114:48\n    at Array.map (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:113:53)\n    at Layer.handle [as handle_request] (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-05-23 16:13:40"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:14:02"}
+{"level":"error","message":"Erreur dans validatePost: Must supply api_key","service":"ai-service","stack":"Error: Must supply api_key\n    at ensureOption (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\ensureOption.js:19:13)\n    at Object.sign_request (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\index.js:1164:16)\n    at Object.process_request_params (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\index.js:1214:22)\n    at call_api (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\uploader.js:474:18)\n    at Object.upload (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\uploader.js:53:10)\n    at Object.upload (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\index.js:1411:21)\n    at C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:114:48\n    at Array.map (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:113:53)\n    at Layer.handle [as handle_request] (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-05-23 16:14:09"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:14:29"}
+{"level":"error","message":"Erreur dans validatePost: Must supply api_key","service":"ai-service","stack":"Error: Must supply api_key\n    at ensureOption (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\ensureOption.js:19:13)\n    at Object.sign_request (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\index.js:1164:16)\n    at Object.process_request_params (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\index.js:1214:22)\n    at call_api (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\uploader.js:474:18)\n    at Object.upload (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\uploader.js:53:10)\n    at Object.upload (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\cloudinary\\lib\\utils\\index.js:1411:21)\n    at C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:114:48\n    at Array.map (<anonymous>)\n    at exports.validatePost (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\identify.controller.js:113:53)\n    at Layer.handle [as handle_request] (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-05-23 16:14:45"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:14:50"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:15:10"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:15:13"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:15:17"}
+{"error":"Post validation failed: user: Path `user` is required.","level":"error","message":"Erreur BDD:","service":"ai-service","timestamp":"2025-05-23 16:15:17"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:16:35"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:16:38"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:19:40"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:19:44"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:19:47"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:21:05"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:22:09"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:22:16"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:22:18"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:28:50"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:28:52"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:28:52"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:29:30"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:29:32"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:29:32"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:30:16"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:30:19"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:30:19"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:30:37"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:30:40"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:30:40"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:31:15"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:31:17"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:31:17"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:32:45"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:32:47"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:32:47"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:33:00"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:33:02"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:33:02"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:33:48"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:33:50"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:33:50"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:34:48"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:35:22"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:35:22"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:38:20"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:38:25"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:38:25"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:39:11"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:39:40"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:39:43"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:39:45"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 16:40:17"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:41:24"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:41:26"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:43:45"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:43:47"}
+{"error":"Cannot read properties of undefined (reading 'id')","level":"error","message":"Erreur BDD:","service":"ai-service","timestamp":"2025-05-23 16:43:47"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:44:10"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:44:13"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:52:11"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:53:04"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:53:06"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:53:06"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:54:22"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:54:24"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:54:24"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:55:08"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:55:10"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 16:55:10"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 16:56:03"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 16:56:15"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 18:47:09"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 18:47:24"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 18:47:26"}
+{"error":"Token manquant ou invalide.","level":"error","message":"Erreur BDD:","service":"ai-service","success":false,"timestamp":"2025-05-23 18:47:26"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 18:52:28"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-05-23 18:52:32"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-05-23 18:52:35"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 19:04:06"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-05-23 19:04:19"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-06-26 13:28:53"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-06-26 13:32:29"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-06-26 13:38:18"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-01 20:58:11"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-03 14:15:50"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-03 21:26:24"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-04 00:45:04"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-04 01:32:38"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-05 16:50:16"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-07-05 16:52:59"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-07-05 16:53:01"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-07-05 16:53:02"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-07-05 16:53:04"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:33:07"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:33:47"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:39:53"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:39:55"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:41:09"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:41:11"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:41:22"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:41:25"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:41:47"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:41:48"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:42:07"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:42:09"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:42:32"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:42:34"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:43:02"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:43:03"}
+{"level":"error","message":"Erreur dans validateData: Réponse GPT invalide","service":"ai-service","stack":"Error: Réponse GPT invalide\n    at exports.validateData (C:\\Users\\bsahr\\Documents\\Github\\SpotR\\spotR-ai\\controllers\\validate.controller.js:234:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-07-06 12:43:04"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:43:09"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:43:16"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:43:22"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 12:44:04"}
+{"level":"info","message":"Validation des données via GPT...","service":"ai-service","timestamp":"2025-07-06 12:44:07"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 13:07:15"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-07-06 13:21:58"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-07-06 13:22:00"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 13:37:21"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 13:58:25"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 13:59:26"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 13:59:45"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 14:04:50"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 14:47:25"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 14:54:48"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 15:12:21"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-07-06 15:16:00"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-07-06 15:16:14"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-07-06 15:16:22"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-07-06 15:16:30"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-07-06 15:16:45"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-07-06 15:16:48"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-06 15:27:42"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-07 00:25:33"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-08 18:45:29"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-08 22:09:45"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-08 22:19:07"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-08 22:21:49"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-08 22:23:35"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-08 22:59:07"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-09 17:05:55"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-09 19:31:05"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-10 13:52:19"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-10 14:05:00"}
+{"level":"info","message":"Validation GPT...","service":"ai-service","timestamp":"2025-07-10 14:37:59"}
+{"level":"info","message":"Envoi des données au microservice BDD...","service":"ai-service","timestamp":"2025-07-10 14:38:03"}
+{"level":"info","message":"Micro Service Notifs Started","service":"ai-service","timestamp":"2025-07-10 14:53:21"}
